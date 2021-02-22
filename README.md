@@ -1,2 +1,5 @@
-# turma16mysql
-Atividades desenvolvidas durante o curso da Generation "Desenvolvedor Jr."  / MySQL /
+# Bootcamp Generation - turma16 💡
+Olá, visitante! 😄✨
+
+Aqui estão as atividades desenvolvidas durante o Bootcamp da Generation.
+🟡 Banco de Dados: MySQL
